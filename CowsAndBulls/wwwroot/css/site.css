@@ -16,3 +16,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+.form-floating {
+    margin:10px;
+}
+.input-cab {
+    width: 250px;
+    align-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.align-content-center{
+}
