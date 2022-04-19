@@ -27,3 +27,9 @@ body {
 }
 .align-content-center{
 }
+.inputnumber {
+    border: 1px solid #1b6ec2;
+}
+.margin_bot {
+    margin-bottom:50px;
+}
